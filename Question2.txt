@@ -3,7 +3,7 @@ https://github.com/ReemaSingh-sys/NGS-SOftware-Development/tree/master
 # Project Structure
 
 Data
- - Test.bam
+ - DataMachine.txt
 Documentation
  - Faq.md
  - Usage.md
