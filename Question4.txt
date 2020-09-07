@@ -1,9 +1,9 @@
 A) Best way to transfer the data from one point to another
 
-Answer: secure ftp (ws-ftp if it is  a window machine) is a best way to transfer data from one machine to another. Alternatively, the user can use "scp".
+Answer: secure FTP (ws-FTP if it is a window machine) is one of the best ways to transfer data from one machine to another. Alternatively, the user can use "SCP".
 
 B) Suggestions to minimize problems from the data being exported by the machine?
 
 Answer: 1) Compress the data 
         2) to make sure that the internet connection is working
-        3) data should be in proper format
+        3) data should be in a proper format
