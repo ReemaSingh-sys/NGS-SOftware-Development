@@ -11,7 +11,15 @@ Documentation
 Scripts
  - Variantcalling.pl
 LICENSE
-Readme.md
+README.md
+Question1.txt
+Question2.txt
+Question3.txt
+Question4.txt
+Question5.txt
+Question6.txt
+Question7.txt
+Question8.txt
 
  
 
