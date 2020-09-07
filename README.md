@@ -7,13 +7,8 @@ Dr Reema Singh
 # Project Structure
 
 Data
- - Test.bam
 Documentation
- - Faq.md
- - Usage.md
- - Table of content.md
 Scripts
- - Variantcalling.pl
 LICENSE
 README.md
 Question1.txt
