@@ -1,0 +1,1 @@
+perl scripts/Variantcalling.pl bamfiles.txt FA1090.fasta
