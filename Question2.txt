@@ -10,5 +10,8 @@ Documentation
  - Table of content.md
 Scripts
  - Variantcalling.pl
+LICENSE
+Readme.md
+
  
 
