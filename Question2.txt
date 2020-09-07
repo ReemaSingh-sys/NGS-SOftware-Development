@@ -5,8 +5,10 @@ https://github.com/ReemaSingh-sys/NGS-SOftware-Development/tree/master
 Data
  - Test.bam
 Documentation
- - faq.md
+ - Faq.md
  - Usage.md
- - 
+ - Table of content.md
 Scripts
+ - Variantcalling.pl
+ 
 
