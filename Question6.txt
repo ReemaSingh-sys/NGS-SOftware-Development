@@ -1,0 +1,10 @@
+#A) To avoid matching error in NGS and PCR data, I will do the following:
+
+1)	Check the content and size of the data files.  
+2)	To make sure that there is a common identifier (matching sample names) in NGS and PCR data.
+3)	If both files (NGS and PCR) contains data generated from a single sample then I will use gene names/transcript names to match the files
+
+#B) Feedbacks
+
+1)	Make sure that the data is clean and complete
+2)	Without a common identifier, the data matching between NGS and PCR files would be unsuccessful.
