@@ -1,0 +1,6 @@
+#a)	How do you deliver your reports?
+I will first summarize the finding in a text or table or figure (to visualize the important finding). And interpret the results (if needed) and conclude accordingly. And then deliver the report to our collaborator via presentation, lab meetings (or an in-person meeting), emails.
+# b)	How do you know if the analysis passed QA/QC and then can be moved to the storage?
+It depends upon the type of experiment. For instance, if I am dealing with WGS fastq files. First I will check the quality of the raw reads using FastQC and evaluate the sequence quality based on coverage depth, read duplication level, mapping quality and contigs quality. QUAST is another exemplary tool that I will utilize. The data (raw as well analyzed) then can be compressed before moved to the storage.
+#c)	What would be your preferred method to transfer data? Would be manual or automated transfer?
+Depending upon the quantity of the data. SCP and FTP are my preferred method (would also like using grid computing infrastructure for big data transfer). For larger datasets, I will prefer automated transfer. But if there are only a few files I can handle them via FTP (ws-FTP on Windows) or SCP.
