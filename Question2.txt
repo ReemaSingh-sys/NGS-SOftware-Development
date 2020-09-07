@@ -1,1 +1,8 @@
 https://github.com/ReemaSingh-sys/NGS-SOftware-Development/tree/master
+
+# Project Structure
+
+Documentation
+Data
+Scripts
+
