@@ -1,0 +1,8 @@
+DATA	TIME
+DataA	1:00
+DataB	6:00
+DataC	5:00
+DataD	4:00
+DataE	8:00
+DataA	12:00
+DataB	5:00
