@@ -2,7 +2,11 @@ https://github.com/ReemaSingh-sys/NGS-SOftware-Development/tree/master
 
 # Project Structure
 
-Documentation
 Data
+ - Test.bam
+Documentation
+ - faq.md
+ - Usage.md
+ - 
 Scripts
 
