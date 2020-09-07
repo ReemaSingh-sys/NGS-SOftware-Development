@@ -4,6 +4,8 @@ This is a test software development project for NGS data analysis
 Dr Reema Singh
 # Synopsis
 
+This project includes questions and answers for a test assignment
+
 # Project Structure
 
 Data
