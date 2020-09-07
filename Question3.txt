@@ -1,1 +1,8 @@
-perl scripts/Variantcalling.pl bamfiles.txt FA1090.fasta
+# Tool to generate variant files from bam files.
+
+I will use Samtools for varint calling. There are two steps involved in this process - 1) sort and index bam files, 2) Call variant and write a vcf file.
+I wrote a small perl script to perform this function. Please find the script Varinatcalling.pl under scripts directory.
+
+Usage of the Varinatcalling.pl
+
+# perl scripts/Variantcalling.pl bamfiles.txt FA1090.fasta
