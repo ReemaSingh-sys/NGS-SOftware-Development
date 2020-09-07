@@ -1,14 +1,14 @@
 # A) Tool to generate variant files from bam files.
 
-I will use Samtools for varint calling. There are two steps involved in this process - 1) sort and index bam files, 2) Call variant and write a vcf file.
-I wrote a small perl script to perform this function. Please find the script Varinatcalling.pl under scripts directory.
+I will use Samtools for variant calling. There are two steps involved in this process - 1) sort and index bam files, 2) Call variant and write a vcf file.
+I wrote a small Perl script to perform this function. Please find the script Varinatcalling.pl under the scripts directory.
 
 Usage of the Varinatcalling.pl
 
 # perl scripts/Variantcalling.pl bamfiles.txt FA1090.fasta
 
 
-B) There are many ways to check the validity of the variants. For instalce:
+B) There are many ways to check the validity of the variants. For instance:
 
-- By generating some performance metrics such as accuracy, sensitivity, specificty, precision, and false positive rates.
+- By generating some performance metrics such as accuracy, sensitivity, specificity, precision, and false positive rates.
 - Using wet-lab validation approaches such as PCR (or real-time quantitative PCR), sanger sequencing.
